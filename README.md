@@ -2,7 +2,9 @@
 
 A macOS taskbar icon that shows your Concourse pipelines; see the status and click through to view on Concourse!
 
-![Screenshot](images/screenshot.png)
+<p align="center">
+<img src="images/screenshot.png"/>
+</p>
 
 ## Installation
 
